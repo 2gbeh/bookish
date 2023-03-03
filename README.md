@@ -1,2 +1,2 @@
 # booq-api
-Learning content distribution engine by Qataloog
+Learning Content Distribution Engine by Qataloog
