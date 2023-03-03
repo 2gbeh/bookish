@@ -13,7 +13,7 @@
     <meta name="robots" content="index,follow" />
 
     <link href="{{ asset('/favicon.png') }}" type="image/png" rel="icon" sizes="32x32" />
-    <title>Bookish API - {{ env('APP_NAME') }}&reg;</title>
+    <title>Booq API - {{ env('APP_NAME') }}&reg;</title>
 
     <!-- Fonts -->
     <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
