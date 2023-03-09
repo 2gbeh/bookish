@@ -53,7 +53,7 @@ export const useLogin = () => {
   };
 
   useEffect(() => {
-    adminLogin(setEmail, setPassword, setRememberMe);
+//     adminLogin(setEmail, setPassword, setRememberMe);
   }, []);
 
   return {
